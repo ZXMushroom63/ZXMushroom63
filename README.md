@@ -12,7 +12,7 @@
 | EaglerForgeInjector | Modding API patching tool for Eaglercraft builds (TeaVM 0.9.2) | [Linkie](https://github.com/eaglerforge/EaglerForgeInjector/) | ![](https://img.shields.io/github/stars/EaglerForge/EaglerForgeInjector?style=social) |
 | useful-notebook | Notebook web-app I made to make myself more (somewhat) organised |  [Linkie](https://github.com/ZXMushroom63/useful-notebook) | ![](https://img.shields.io/github/stars/ZXMushroom63/useful-notebook?style=social) |
 | ReferenceToPlaneTools | Handy blender addon for working with images (drag n drop, etc) |  [Linkie](https://github.com/ZXMushroom63/ReferenceToPlaneTools) | ![](https://img.shields.io/github/stars/ZXMushroom63/ReferenceToPlaneTools?style=social) |
-| SYNTHETIC Audio | Web based DAW I'm working on |  [Linkie](https://github.com/ZXMushroom63/synthetic-audio) | ![](https://img.shields.io/github/stars/ZXMushroom63/synthetic-audio?style=social) |
+| SYNTHETIC Audio | Web based DAW |  [Linkie](https://github.com/ZXMushroom63/synthetic-audio) | ![](https://img.shields.io/github/stars/ZXMushroom63/synthetic-audio?style=social) |
 
 #### Crypto wallets
 - XRP: `45TFDskVZqQ85sWYHUnxMZ9PSTbpiS5SLPzptq9NP1tTEA2wGVm6NJ5cHYku3Ec3Rk5PMDa987DpPKhrtqQ8bFZ2TcZqdW6`
