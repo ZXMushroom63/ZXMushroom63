@@ -3,6 +3,9 @@
 - also blender. sometimes blender too\
 \
 ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=ZXMushroom63)
+![star counter](https://img.shields.io/github/stars/ZXMushroom63)\
+![Wakatime moment](https://github-readme-stats.hackclub.dev/api/wakatime?username=612&api_domain=hackatime.hackclub.com&theme=darcula&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8)
+
 -------
 ## My Projects:
 | Project Name | Description | Link | Stars |
